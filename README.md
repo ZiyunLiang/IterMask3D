@@ -16,7 +16,7 @@ In addition, to achieve better reconstruction performance, we also propose using
 Extensive experiments on the detection of both synthetic and real-world imaging artifacts, as well as segmentation of various pathological lesions across multiple MRI sequences, consistently demonstrate the effectiveness of our proposed method. 
 
 [//]: # 
-![Image text](https://github.com/ZiyunLiang/IterMask3D/blob/main/img/main_figure.png)
+![Image text](https://github.com/ZiyunLiang/IterMask3D/blob/master/img/main_figure.png)
 
 ## Usage:
 
