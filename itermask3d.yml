@@ -75,10 +75,10 @@ dependencies:
       - sympy==1.13.1
       - tensorboard==2.19.0
       - tensorboard-data-server==0.7.2
-      - torch==2.6.0+cu118
-      - torchaudio==2.6.0+cu118
-      - torchio==0.20.21
-      - torchvision==0.21.0+cu118
+      - torch==2.6.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+      - torchaudio==2.6.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+      - torchio==0.20.21 
+      - torchvision==0.21.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
       - tqdm==4.67.1
       - triton==3.2.0
       - typer==0.17.3
